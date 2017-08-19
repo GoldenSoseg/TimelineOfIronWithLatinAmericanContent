@@ -1,0 +1,18 @@
+state={
+	id=764
+	name="STATE_764"
+
+	history={
+		owner = PAR
+		add_core_of = PAR
+		add_core_of = BOL
+
+	}
+
+	provinces={
+		2195 2209 
+	}
+	manpower=23000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

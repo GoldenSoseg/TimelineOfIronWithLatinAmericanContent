@@ -1,0 +1,171 @@
+﻿capital = 279
+
+oob = "CHL_1861"
+
+set_politics = {
+    parties = {
+      economic_liberalism = {
+        popularity = 12
+      }
+      traditional_conservatism = {
+        popularity = 25
+      }
+      social_democracy = {
+        popularity = 12
+      }
+      radical_socialism = {
+        popularity = 0
+      }
+      marxism_leninism = {
+        popularity = 0
+      }
+      despotic_autocracy = {
+        popularity = 50
+      }
+      parliamental_oligarchy = {
+        popularity = 0
+      }
+      totalitarian_nationalism = {
+        popularity = 0
+      }
+      rexism_falangism = {
+        popularity = 0
+      }
+      theocracy = {
+        popularity = 1
+      }
+    }
+
+	ruling_party = despotic_autocracy
+}
+
+set_technology = {
+	infantry_weapons = 1
+	rifle_equipment1 = 1
+	rifle_equipment2 = 1
+	hand_revolvers = 1
+	socket_bayonet = 1
+	vic_army_cloth = 1
+	civil_army_cloth = 1
+	basic_cavalry = 1
+	horse_transport = 1
+	horse_artillery = 1
+	gw_artillery = 1
+	improved_smoothbore = 1
+	early_howitzer = 1
+	rml_field_gun = 1
+	early_rockets = 1
+	spin_stabilised_rockets = 1
+}
+
+create_country_leader = {
+    name = "Manuel Montt"
+    desc = "POLITICS_TEMP_DESC"
+    picture = "Portrait_CHL_Manuel_Montt.dds"
+    expire = 1861.9.18
+    ideology = despotism
+}
+
+create_country_leader = {
+    name = "Manuel Antonio Tocornal"
+    desc = "POLITICS_TEMP_DESC"
+    picture = "Portrait_CHL_Manuel_Antonio_Tocornal.dds"
+    expire = 1871.9.18
+    ideology = conserv
+}
+
+create_country_leader = {
+    name = "Pedro León Gallo"
+    desc = "POLITICS_TEMP_DESC"
+    picture = "Portrait_CHL_Pedro_Leon_Gallo.dds"
+    expire = 1871.9.18
+    ideology = liberal_social
+}
+
+create_country_leader = {
+    name = "José Joaquín Pérez"
+    desc = "POLITICS_TEMP_DESC"
+    picture = "Portrait_CHL_Jose_Joaquin_Perez.dds"
+    expire = 1871.9.18
+    ideology = conserv_liberal
+}
+
+1857.5.11 = {
+oob = "CHL_1857"
+
+set_politics = {
+    parties = {
+      economic_liberalism = {
+        popularity = 15
+      }
+      traditional_conservatism = {
+        popularity = 22
+      }
+      social_democracy = {
+        popularity = 5
+      }
+      radical_socialism = {
+        popularity = 0
+      }
+      marxism_leninism = {
+        popularity = 0
+      }
+      despotic_autocracy = {
+        popularity = 57
+      }
+      parliamental_oligarchy = {
+        popularity = 0
+      }
+      totalitarian_nationalism = {
+        popularity = 0
+      }
+      rexism_falangism = {
+        popularity = 0
+      }
+      theocracy = {
+        popularity = 1
+      }
+    }
+
+	ruling_party = despotic_autocracy
+}
+
+set_technology = {
+  infantry_weapons = 1
+  basic_cavalry = 1
+  gw_artillery = 1
+  vic_army_cloth = 1
+}
+
+create_country_leader = {
+    name = "Manuel Montt"
+    desc = "POLITICS_TEMP_DESC"
+    picture = "Portrait_CHL_Manuel_Montt.dds"
+    expire = 1861.9.18
+    ideology = despotism
+}
+
+create_country_leader = {
+    name = "Manuel Antonio Tocornal"
+    desc = "POLITICS_TEMP_DESC"
+    picture = "Portrait_CHL_Manuel_Antonio_Tocornal.dds"
+    expire = 1871.9.18
+    ideology = conserv
+}
+
+create_country_leader = {
+    name = "Pedro León Gallo"
+    desc = "POLITICS_TEMP_DESC"
+    picture = "Portrait_CHL_Pedro_Leon_Gallo.dds"
+    expire = 1871.9.18
+    ideology = liberal_social
+}
+
+create_country_leader = {
+    name = "José Joaquín Pérez"
+    desc = "POLITICS_TEMP_DESC"
+    picture = "Portrait_CHL_Jose_Joaquin_Perez.dds"
+    expire = 1871.9.18
+    ideology = conserv_liberal
+}
+}

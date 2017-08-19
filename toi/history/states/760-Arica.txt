@@ -1,0 +1,25 @@
+state={
+	id=760
+	name="STATE_760"
+
+	history={
+		owner = PRU
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			5131 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = PRU
+
+	}
+
+	provinces={
+		5131 
+	}
+	manpower=30000
+	buildings_max_level_factor=1.000
+}
